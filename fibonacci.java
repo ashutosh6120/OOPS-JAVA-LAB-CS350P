@@ -1,4 +1,4 @@
-//FIBONACCI JAVA PROGRAM
+//TO PRINT N FIBONACCI JAVA PROGRAM
 class fibonacci
 {
     static void fibonacci(int n)
