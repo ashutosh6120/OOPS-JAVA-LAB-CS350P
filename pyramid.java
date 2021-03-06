@@ -1,3 +1,5 @@
+//TO PRINT PYRAMID SHAPE USING * SYMBOLS
+
 import java.io.*;
 
 public class pyramid    //class declaration
